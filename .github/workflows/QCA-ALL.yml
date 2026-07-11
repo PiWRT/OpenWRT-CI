@@ -47,7 +47,7 @@ jobs:
       #默认主题
       WRT_THEME: aurora
       #默认主机名
-      WRT_NAME: DiWRT
+      WRT_NAME: PiWRT
       #默认WIFI名称
       WRT_SSID: Moto_5G
       #默认WIFI密码
