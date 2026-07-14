@@ -59,7 +59,7 @@ UPDATE_PACKAGE "luci-app-clientstatus" "migee99/luci-app-clientstatus" "main"
 UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
 
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
-
+UPDATE_PACKAGE "mosdns" "sbwml/luci-app-mosdns" "v5" "" "v2dat"
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 UPDATE_PACKAGE "diskman" "sbwml/luci-app-diskman" "main"
 UPDATE_PACKAGE "easytier" "EasyTier/luci-app-easytier" "main"
