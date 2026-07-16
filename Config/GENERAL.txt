@@ -1,5 +1,6 @@
 
 #增加插件
+CONFIG_PACKAGE_luci-app-route-tool=y
 CONFIG_PACKAGE_luci-app-mosdns=y
 CONFIG_PACKAGE_kmod-usb-acm=y
 CONFIG_PACKAGE_kmod-usb-serial-option=y
