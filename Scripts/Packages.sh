@@ -62,7 +62,11 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "Openwrt-Passwall/openwrt-passwall" "main" "pkg"
 UPDATE_PACKAGE "passwall2" "Openwrt-Passwall/openwrt-passwall2" "main" "pkg"
 
-UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
+UPDATE_PACKAGE "luci-app-clientstatus" "migee99/luci-app-clientstatus" "main"
+UPDATE_PACKAGE "luci-app-harbor-file" "destan19/luci-app-harbor-file" "main"
+UPDATE_PACKAGE "luci-app-bandix" "timsaya/luci-app-bandix" "main"
+UPDATE_PACKAGE "openwrt-bandix" "timsaya/openwrt-bandix" "main"
+UPDATE_PACKAGE "lucky" "sirpdboy/luci-app-lucky" "main"
 
 #UPDATE_PACKAGE "athena-led" "unraveloop/JDC-AX6600-Athena-LED-Controller" "main"
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
