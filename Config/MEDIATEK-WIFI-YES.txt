@@ -7,4 +7,4 @@ CONFIG_TARGET_DEVICE_mediatek_filogic_DEVICE_h3c_magic-nx30-pro-ubootmod=y
 CONFIG_PACKAGE_kmod-cryptodev=y
 CONFIG_PACKAGE_kmod-tls=y
 
-CONFIG_PACKAGE_luci-app-natmap=y
+#CONFIG_PACKAGE_luci-app-natmap=y
