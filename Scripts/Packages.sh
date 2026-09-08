@@ -56,6 +56,10 @@ UPDATE_PACKAGE "noobwrt" "nooblk-98/luci-theme-noobwrt" "master"
 UPDATE_PACKAGE "shadcn" "eamonxg/luci-theme-shadcn" "main"
 UPDATE_PACKAGE "theme-fluent" "LazuliKao/luci-theme-fluent" "main"
 
+UPDATE_PACKAGE "lucky" "sirpdboy/lci-app-lucky" "main"
+UPDATE_PACKAGE "luci-app-clientstatus" "migee99/luci-app-clientstatus" "main"
+UPDATE_PACKAGE "luci-app-harbor-file" "destan19/luci-app-harbor-file" "main"
+
 UPDATE_PACKAGE "momo" "nikkinikki-org/OpenWrt-momo" "main"
 UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
